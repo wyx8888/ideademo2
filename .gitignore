@@ -1,0 +1,4 @@
+# Project exclude paths
+/pojo/target/
+/StudentService/target/
+/webapp/target/
